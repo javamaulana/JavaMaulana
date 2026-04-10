@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi There!
 Solving problems with logic and code.
 
 
