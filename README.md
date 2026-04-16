@@ -1,4 +1,4 @@
-# 💫 Hi There!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+There+saya+Java+Maulana;Selamat+datang+di+profil+saya!)](https://git.io/typing-svg)
 Solving problems with logic and code.
 
 
