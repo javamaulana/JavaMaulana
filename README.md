@@ -15,7 +15,7 @@
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
     </td>
     <td>
-      <img src="Me_repo.gif" width="375" />
+      <img src="Me_repo.gif" width="335" />
     </td>
   </tr>
 </table>
